@@ -1,5 +1,3 @@
-import { ProjectList } from "./components/project-list";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-blue-900 text-white px-4">

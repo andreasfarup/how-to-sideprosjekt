@@ -1,7 +1,6 @@
 export function ProjectList() {
     return (
         <div>
-            <h2 className="text-2xl mb-4">Prosjekter</h2>
             <ul className="pl-4 list-disc space-y-4">
                 <li>
                     <h3 className="text-lg">INF115 - Assignment 1</h3>

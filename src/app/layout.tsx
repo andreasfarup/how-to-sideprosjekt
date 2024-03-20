@@ -3,7 +3,7 @@ import "./globals.css";
 import { Navigation } from "./components/navigation";
 
 export const metadata: Metadata = {
-  title: "Mikal",
+  title: "How to sideprosjekt",
 };
 
 export default function RootLayout({
