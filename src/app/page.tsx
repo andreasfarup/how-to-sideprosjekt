@@ -17,8 +17,6 @@ export default function Home() {
           <li>Bordtennis 🏓</li>
           <li>Soccer Heads ⚽️</li>
         </ul>
-
-        <ProjectList /> { }
       </div>
     </div>
   );
