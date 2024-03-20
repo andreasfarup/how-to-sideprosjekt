@@ -8,5 +8,5 @@ export default function Prosjekter() {
         <ProjectList />
       </div>
     </div>
-  );
+  );    
 }
