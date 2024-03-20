@@ -1,3 +1,5 @@
+import { ProjectList } from "./components/project-list";
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-blue-900 text-white px-4">
@@ -9,12 +11,14 @@ export default function Home() {
           Jeg studerer Datateknologi på Universitetet i Bergen 💻🤓
         </p>
 
-        <p>🚀 Ting jeg er bedre enn i Mikal i:</p>
+        <p>🚀 Ting jeg er bedre enn Mikal i:</p>
 
         <ul className="pl-4 list-disc">
           <li>Bordtennis 🏓</li>
           <li>Soccer Heads ⚽️</li>
         </ul>
+
+        <ProjectList /> { }
       </div>
     </div>
   );
