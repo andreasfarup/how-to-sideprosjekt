@@ -6,7 +6,7 @@ export default function Home() {
           👋🏻 Hei, jeg heter Andreas Aasheim Farup!
         </h1>
         <p>
-          Jeg studerer Datateknologi på Universitetet i Bergen 💻🤓
+          Jeg studerer Datateknologi på Universitetet i Bergen 💻🤓🫡
         </p>
 
         <p>🚀 Ting jeg er bedre enn Mikal i:</p>
